@@ -1,6 +1,14 @@
 .img-profile-photo {
     border-radius: 50%;
 }
+.page-header {
+  color: #fff;
+  text-align: center;
+  background-color: #FFFFFF;
+  background-image: linear-gradient(180deg, #103060, #FFFFFF);
+  /*background-image: linear-gradient(180deg, #155799, #159957);*/
+}
+
 
 @media screen and (max-width: 42em) {
   .site-footer {
