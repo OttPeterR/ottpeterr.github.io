@@ -241,26 +241,3 @@ a {
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .site-footer {
     font-size: 1rem; } }
-
-@media screen and (max-width: 42em) {
-  .site-footer {
-    font-size: 0.9rem; } }
-#link-icons {
-    height: 50px;
-    text-align: justify;
-    -ms-text-justify: distribute-all-lines;
-    text-justify: distribute-all-lines;
-    min-width: 300px;
-}
-.stretch {
-    width: 100%;
-    display: inline-block;
-    font-size: 0;
-    line-height: 0
-}
-.link-icon{
-    vertical-align: top;
-    display: inline-block;
-    *display: inline;
-    zoom: 1
-}
